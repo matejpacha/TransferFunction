@@ -1,0 +1,14 @@
+C:\Users\HP\source\repos\FilterIIRTestApp\FilterIIRTestApp\bin\Debug\netcoreapp3.1\FilterIIRTestApp.exe
+C:\Users\HP\source\repos\FilterIIRTestApp\FilterIIRTestApp\bin\Debug\netcoreapp3.1\FilterIIRTestApp.deps.json
+C:\Users\HP\source\repos\FilterIIRTestApp\FilterIIRTestApp\bin\Debug\netcoreapp3.1\FilterIIRTestApp.runtimeconfig.json
+C:\Users\HP\source\repos\FilterIIRTestApp\FilterIIRTestApp\bin\Debug\netcoreapp3.1\FilterIIRTestApp.runtimeconfig.dev.json
+C:\Users\HP\source\repos\FilterIIRTestApp\FilterIIRTestApp\bin\Debug\netcoreapp3.1\FilterIIRTestApp.dll
+C:\Users\HP\source\repos\FilterIIRTestApp\FilterIIRTestApp\bin\Debug\netcoreapp3.1\FilterIIRTestApp.pdb
+C:\Users\HP\source\repos\FilterIIRTestApp\FilterIIRTestApp\obj\Debug\netcoreapp3.1\FilterIIRTestApp.csproj.AssemblyReference.cache
+C:\Users\HP\source\repos\FilterIIRTestApp\FilterIIRTestApp\obj\Debug\netcoreapp3.1\FilterIIRTestApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\source\repos\FilterIIRTestApp\FilterIIRTestApp\obj\Debug\netcoreapp3.1\FilterIIRTestApp.AssemblyInfoInputs.cache
+C:\Users\HP\source\repos\FilterIIRTestApp\FilterIIRTestApp\obj\Debug\netcoreapp3.1\FilterIIRTestApp.AssemblyInfo.cs
+C:\Users\HP\source\repos\FilterIIRTestApp\FilterIIRTestApp\obj\Debug\netcoreapp3.1\FilterIIRTestApp.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\FilterIIRTestApp\FilterIIRTestApp\obj\Debug\netcoreapp3.1\FilterIIRTestApp.dll
+C:\Users\HP\source\repos\FilterIIRTestApp\FilterIIRTestApp\obj\Debug\netcoreapp3.1\FilterIIRTestApp.pdb
+C:\Users\HP\source\repos\FilterIIRTestApp\FilterIIRTestApp\obj\Debug\netcoreapp3.1\FilterIIRTestApp.genruntimeconfig.cache
